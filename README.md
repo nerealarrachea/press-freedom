@@ -7,7 +7,7 @@
 
 </p>
 
-<img src="./images/press_free.jpg" alt="jaws" width="400"/>
+<img src="./images/press_free.jpg" alt="jaws" width="800"/>
 
 
 ## Table of contents
@@ -27,6 +27,8 @@
 ## Introduction
 
 In this project, I merged data from Reporters Without Borders and The World Bank to create a dataframe with indicators for press freedom and human development for 180 countries. 
+
+With this dataframe I tried to see if there's is a relationship between press freedom and human development. Also I try to show the media situation in different contries. 
 
 
 ## Data
@@ -109,11 +111,10 @@ Children out of school are the percentage of primary-school-age children who are
 
 ## Last Remarks
 
- A free press always has a positive influence on poverty and on governance. It holds government accountable and makes their actions transparent and expands participations in the political decision making beyond a small inner circle.
+ A free press always has a positive influence on poverty and on governance. It holds government accountable and makes their actions transparent and expands participations in the political decision making beyond a small inner circle. 
 
 
 ### References
 
-- https://www.sciencedirect.com/science/article/abs/pii/S0308597X13000055 
-- https://seatemperatures.net/blog/scuba-diving-statistics-how-many-people-scuba-dive/#:~:text=Between%20November%202020%20and%20November,6%20million%20active%20scuba%20divers. 
-- https://www.instagram.com/thelifeofsharks/
+- https://rsf.org/en
+- https://rsf.org/en/index-methodologie-2022
